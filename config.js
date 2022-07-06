@@ -1,7 +1,6 @@
 module.exports = {
     app: {
         px: '-',
-        token: 'NzE3Mzg1MDk1NTQ3MTkxMzE4.GwdCw-.equc5b7WmQ6opyknKpoGJltolNjdUjvuxEQR3Q',
         owners: '519503123656605699',
     },
 
