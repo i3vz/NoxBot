@@ -13,7 +13,7 @@ module.exports = {
         member.roles.add(config.defaultroleid);
     
         const Welcomer = new WebhookClient({
-            id: "996116453768048640",
+            id: "938065579607195668",
             token: "WtIXZ-cKWfM18sX9oD8-0B_ZVJDye1ea_F6Sw7GJXGpd0LDUl8QsX1mJqBJzRFnRQNm0",
         });
 
