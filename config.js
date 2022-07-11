@@ -2,6 +2,7 @@ module.exports = {
     app: {
         px: '-',
         owners: '519503123656605699',
+      mongodb: 'mongodb+srv://3vz:Iyassbilalsy1234@cluster0.e7qzf56.mongodb.net/?retryWrites=true&w=majority',
     },
 
     opt: {
