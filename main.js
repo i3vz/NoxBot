@@ -7,12 +7,6 @@ const express = require('express')
 const app = express();
 const port = 3000
 
-client.on('guildMemberAdd', guildMember =>{
-    let welcomeRole = guildMember.guild.roles.cache.find(role => role.name === 'Nox');
-
-    guildMember.roles.add(welcomeRole);
-});
- 
 app.get('/', (req, res) => res.send('Bot is now running!!'))
  
 app.listen(port, () =>
